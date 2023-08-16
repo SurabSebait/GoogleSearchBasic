@@ -1,0 +1,40 @@
+#masterdiv {
+  text-align: center;
+  margin-top: 250.5px;
+}
+#masterdiv img {
+  text-align: center;
+  width: 300px;
+}
+#masterdiv #box1 {
+  width: 700px;
+  height: 35px;
+  text-align: left;
+  border-radius: 50px;
+}
+#masterdiv #box2 {
+  margin-top: 10px;
+  margin-left: 550px;
+  width: 15px;
+  border-radius: 5px;
+}
+#masterdiv #box3 {
+  margin-left: 350px;
+  margin-top: -20px;
+}
+
+#gsearchopt {
+  margin: 5px;
+  text-align: right;
+  font-size: 18px;
+  font-weight: bold;
+}
+#gsearchopt #gas {
+  border: 1px solid black;
+  margin-right: 10px;
+  border-radius: 5px;
+}
+#gsearchopt #gis {
+  border: 1px solid black;
+  border-radius: 5px;
+}/*# sourceMappingURL=GooglesearchPage.css.map */
